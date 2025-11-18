@@ -1,7 +1,9 @@
+import { SignInButton } from "@clerk/nextjs"
+
 const ProfilePage = () => {
   return (
     <div>
-      ProfilePage
+      This is home page
     </div>
   )
 }
